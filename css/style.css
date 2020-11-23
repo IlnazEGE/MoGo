@@ -2353,17 +2353,17 @@ body.ie .ibg img {
 .spollers__header_1::after {
 	width: 30px;
 	height: 30px;
-	background: url("../../img/service/icons/01.svg") 0 0 no-repeat;
+	background: url("../img/service/icons/01.svg") 0 0 no-repeat;
 }
 .spollers__header_2::after {
 	width: 28px;
 	height: 32px;
-	background: url("../../img/service/icons/02.svg") 0 0 no-repeat;
+	background: url("../img/service/icons/02.svg") 0 0 no-repeat;
 }
 .spollers__header_3::after {
 	width: 32px;
 	height: 32px;
-	background: url("../../img/service/icons/03.svg") 0 0 no-repeat;
+	background: url("../img/service/icons/03.svg") 0 0 no-repeat;
 }
 .spollers__header::before {
 	content: "";
